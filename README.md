@@ -65,4 +65,4 @@
 > Gerçek problemleri çözen, güçlü ve sürdürülebilir yazılım projeleri geliştirmek.
 
 
-![snake](https://raw.githubusercontent.com/MustafaDeveloper/MustafaDeveloper/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/MustafaDevloper/MustafaDevloper/output/github-contribution-grid-snake.svg)
